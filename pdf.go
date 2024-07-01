@@ -18,7 +18,7 @@ const (
 
 const (
 	subtotalLabel = "Subtotal"
-	discountLabel = "Discount"
+	discountLabel = "Less: TDS at 10%"
 	taxLabel      = "Tax"
 	totalLabel    = "Total"
 )
